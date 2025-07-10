@@ -1,0 +1,17 @@
+
+{
+  "name": "SieuTamPhim Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "SieuTamPhim",
+      "description": "Xem phim từ sieutamphim.org (Helvid stream)",
+      "packageName": "com.sieutamphim",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "url": "https://vdhh.dev/extensions/sieutamphim.cs3",
+      "iconUrl": "https://vdhh.dev/extensions/icon.png",
+      "nsfw": false
+    }
+  ]
+}

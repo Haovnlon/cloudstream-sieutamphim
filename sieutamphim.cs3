@@ -1,0 +1,10 @@
+
+{
+  "name": "SieuTamPhim",
+  "version": "1.0.0",
+  "description": "Xem phim từ sieutamphim.org",
+  "authors": ["vdhh-dev"],
+  "package": "com.sieutamphim",
+  "pluginType": "movie",
+  "mainClass": "SieuTamPhimPlugin"
+}
