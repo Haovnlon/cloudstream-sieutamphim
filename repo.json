@@ -9,8 +9,8 @@
       "packageName": "com.sieutamphim",
       "versionCode": 1,
       "versionName": "1.0.0",
-      "url": "https://vdhh.dev/extensions/sieutamphim.cs3",
-      "iconUrl": "https://vdhh.dev/extensions/icon.png",
+      "url": "https://raw.githubusercontent.com/Haovnlon/cloudstream-sieutamphim/refs/heads/main/sieutamphim.cs3",
+      "iconUrl": "",
       "nsfw": false
     }
   ]
